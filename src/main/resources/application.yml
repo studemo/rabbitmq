@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    username: dev
+    password: dev
+    addresses: 10.15.0.246:5672,10.15.0.247:5672
+    virtualHost: dev_virtual_host
